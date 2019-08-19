@@ -1,0 +1,13 @@
+platform :ios, '8.0'
+
+target 'TextDemo' do
+
+  pod 'MARSDK', '~> 0.0.9'
+  pod 'SDWebImage'
+  pod 'AFNetworking', '~> 3.1.0'
+  pod 'MJRefresh', '~> 3.1.12'
+  pod 'MBProgressHUD', '~> 1.0.0'
+  pod 'Masonry', '~> 1.0.2'
+
+
+end
